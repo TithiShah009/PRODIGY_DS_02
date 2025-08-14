@@ -1,5 +1,4 @@
 # 📊 Data Science Internship – Task 2
-<br>
 
 ## 📝 Introduction
 This repository contains my work for **Task 2** of the *Prodigy InfoTech Data Science Internship*.  
