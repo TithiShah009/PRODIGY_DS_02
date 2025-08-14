@@ -39,5 +39,5 @@ This project demonstrates how data science techniques can turn historical data i
 
 ## 📬 Contact
 For questions, suggestions, or collaboration, feel free to connect:  
-- [LinkedIn – Tithi Shah](www.linkedin.com/in/tithii)  
+- [LinkedIn – Tithi Shah] (www.linkedin.com/in/tithii)  
 - 📧 Email: **tithishah009@gmail.com**
